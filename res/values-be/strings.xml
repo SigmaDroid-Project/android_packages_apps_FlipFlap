@@ -28,9 +28,10 @@
     <string name="category_behaviour">Паводзіны</string>
     <string name="pass_to_security_view_title">Адразу прапаноўваць увод паролю</string>
     <string name="use_high_touch_sensitivity_title">Высокая адчувальнасць дотыку</string>
-    <string name="use_high_touch_sensitivity_summary">Павялічыць адчувальнасць дотыку пры зачыненні вечка</string>
     <string name="category_design">Дызайн</string>
+    <string name="timeout_unplugged_title">Адключана</string>
     <string name="timeout_summary">Паказваць праграму чахла для %s пасля закрыцця вечка</string>
+    <string name="timeout_summary_immediately">Экран будзе выключаны пасля закрыцця чахла</string>
     <string name="timeout_entry_immediately">Неадкладна</string>
     <string name="timeout_entry_5s">5 секунд</string>
     <string name="timeout_entry_10s">10 секунд</string>
