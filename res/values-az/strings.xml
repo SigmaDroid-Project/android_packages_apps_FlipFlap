@@ -34,7 +34,7 @@
     <string name="use_high_touch_sensitivity_title">Yüksək toxunuş həssaslığı</string>
     <string name="use_high_touch_sensitivity_summary">Örtük bağlı olanda toxunuş həssaslığını artır</string>
     <string name="category_design">Dizayn</string>
-    <string name="switch_charging_status_title">Enerji yığma vəziyyətini göstər</string>
+    <string name="switch_charging_status_title">Doldurma statusunu göstər</string>
     <string name="switch_charging_status_summary">Batereyanın enerjisindən asılı olaraq rəngi dəyiş</string>
     <string name="category_timeouts">Bitmə vaxtı</string>
     <string name="timeout_plugged_title">Enerji yığarkən</string>
