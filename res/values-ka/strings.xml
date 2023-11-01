@@ -30,7 +30,7 @@
     <string name="settings_summary">დამატებითი აღჭურვილობის მართვა</string>
     <string name="category_behaviour">მოქმედება</string>
     <string name="pass_to_security_view_title">პიდაპირ გადასვლა პაროლის შეყვანაზე</string>
-    <string name="pass_to_security_view_summary">შალითის გახსნისას, პირდაპირ ჩამკეტი ეკრანის გამოჩენა</string>
+    <string name="pass_to_security_view_summary">შალითის გახსნისას პირდაპირ ჩამკეტი ეკრანის გამოჩენა</string>
     <string name="use_high_touch_sensitivity_title">შეხების მაღალი მგრძნობელობა</string>
     <string name="use_high_touch_sensitivity_summary">შეხების მგრძნობელობის გაზრდა, როცა შალითა დახურულია</string>
     <string name="category_design">იერსახე</string>
